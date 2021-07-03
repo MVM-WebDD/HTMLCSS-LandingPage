@@ -306,7 +306,7 @@ section {
   z-index: 1;
 }
 
-.footer {
+footer {
   display: flex;
   background-color: #000000;
   position: relative;
