@@ -154,5 +154,12 @@ section {
   max-width: 100%;
 }
 
+.hero {
+  background-image: hero.jpg;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  font-style: uppercase;
+}
 
 
